@@ -1,0 +1,23 @@
+#########################
+# TERRAFORM
+#########################
+
+# Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# Override files
+override.tf
+*_override.tf
+
+# Crash log files
+crash.log
+
+#########################
+# MacOS
+#########################
+
+.DS_Store
